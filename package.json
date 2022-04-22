@@ -1,5 +1,5 @@
 {
-  "name": "react-canvas-draw",
+  "name": "@win11react/react-canvas-draw",
   "version": "1.2.1",
   "description": "A simple yet powerful canvas-drawing component for React.",
   "main": "lib/index.js",
@@ -57,7 +57,9 @@
   },
   "homepage": "https://embiem.github.io/react-canvas-draw/",
   "license": "MIT",
-  "repository": "https://github.com/embiem/react-canvas-draw",
+  "repository": {
+    "url": "https://github.com/win11react/react-canvas-draw",
+  }  
   "bugs": {
     "url": "https://github.com/embiem/react-canvas-draw/issues"
   },
