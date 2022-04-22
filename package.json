@@ -59,7 +59,7 @@
   "license": "MIT",
   "repository": {
     "url": "git://github.com/win11react/react-canvas-draw.git",
-  }  
+  },
   "bugs": {
     "url": "https://github.com/embiem/react-canvas-draw/issues"
   },
