@@ -17,13 +17,13 @@
 Install via NPM:
 
 ```
-npm install react-canvas-draw --save
+npm install @win11react/react-canvas-draw --save
 ```
 
 or YARN:
 
 ```
-yarn add react-canvas-draw
+yarn add @win11react/react-canvas-draw
 ```
 
 ## Usage
